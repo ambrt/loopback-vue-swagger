@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "myloopapi": "file:myloopapi-1.0.0.tgz",
+    "babel-preset-stage-0": "^6.24.1",
     "p-locate": "^2.0.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"

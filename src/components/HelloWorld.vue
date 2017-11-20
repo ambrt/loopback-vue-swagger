@@ -21,8 +21,8 @@
 </template>
 
 <script>
-// import {MyItemApi} from '../swagcli/src/index'
-import { ApiClient } from 'myloopapi'
+import {ApiClient} from '../swagcli'
+
 export default {
   name: 'HelloWorld',
   data () {
